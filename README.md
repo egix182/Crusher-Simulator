@@ -13,4 +13,4 @@ output di dati. In questo modo si possono combinare le componenti in qualsiasi m
 quindi una catena, consentendo la generazione di un numero elevato di candidati all'algoritmo di 
 compressione da un piccolo insieme di componenti.  
 
-## Vedi Tesina crusher_simulator per maggiori informazioni
+# Vedi Tesina crusher_simulator per maggiori informazioni
